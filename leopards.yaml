@@ -2,6 +2,7 @@ team: Leopards
 
 manager: Nora 
 
+<<<<<<< HEAD
 coach: Oscar
 
 members:
@@ -9,3 +10,9 @@ members:
 - William
 - David
 - Olivia
+=======
+members:
+- Linda
+- William
+- David
+>>>>>>> e54f2ae (add)
