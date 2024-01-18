@@ -3,11 +3,7 @@ team: Leopards
 manager: Nora 
 
 <<<<<<< HEAD
-<<<<<<< HEAD
-coach: Nicholas
-=======
 coach: Melissa
->>>>>>> 319b9c1 (Edit Leopards)
 
 members:
 - Linda
@@ -19,4 +15,23 @@ members:
 - Linda
 - William
 - David
+>>>>>>> e54f2ae (add)
+team: Leopards
+
+manager: Nora 
+
+<<<<<<< HEAD
+coach: Nicholas
+
+members:
+- Linda
+- William
+- David
+- Olivia
+=======
+members:
+- Linda
+- William
+- David
+- Evie
 >>>>>>> e54f2ae (add)
